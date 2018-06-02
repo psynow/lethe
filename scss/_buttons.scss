@@ -1,0 +1,27 @@
+.facebook-link {
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    background-color: $primary;
+    border: 1px solid $secondary;
+    border-radius: 50% !important;
+}
+
+.facebook-button-link {
+    display: inline-block;
+    width: 280px;
+    height: 150px;
+    color: transparent !important;
+    background: url('../img/buttons/ico_fb2.png') no-repeat;
+    background-size: contain; 
+}
+
+.navbar-toggler {
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    color: transparent !important;
+    -webkit-text-stroke: 0;
+    background: url('../img/buttons/ico_menu.png') no-repeat;
+    background-size: contain;
+}

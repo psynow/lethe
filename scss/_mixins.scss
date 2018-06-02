@@ -1,0 +1,14 @@
+@mixin body-font() {
+  font-family: 'Poppins';
+}
+
+@mixin heading-font() {
+  font-family: 'Anton';
+}
+
+@mixin outline-text() {
+  font-family: 'Anton';
+  font-size: 20px;
+  text-transform: uppercase;
+  -webkit-text-stroke: 1px #241332;
+}
